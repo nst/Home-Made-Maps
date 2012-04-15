@@ -1,0 +1,232 @@
+tell application "OmniGraffle Professional 5"
+	tell canvas of front window
+make new line at end of graphics with properties {point list: {{518.000000, 677.000000}, {558.000000, 677.000000}}}
+make new line at end of graphics with properties {point list: {{538.000000, 657.000000}, {538.000000, 697.000000}}}
+		make new shape at end of graphics with properties {textPosition: {0.100000, 0.150000}, fill: no fill, draws shadow: false, size: {210.000000, 210.000000}, flipped vertically: true, name: "Circle", origin: {433.000000, 572.000000}, textSize: {0.800000, 0.700000}, flipped horizontally: true}
+		make new shape at end of graphics with properties {textPosition: {0.100000, 0.150000}, fill: no fill, draws shadow: false, size: {420.000000, 420.000000}, flipped vertically: true, name: "Circle", origin: {328.000000, 467.000000}, textSize: {0.800000, 0.700000}, flipped horizontally: true}
+		make new shape at end of graphics with properties {textPosition: {0.100000, 0.150000}, fill: no fill, draws shadow: false, size: {630.000000, 630.000000}, flipped vertically: true, name: "Circle", origin: {223.000000, 362.000000}, textSize: {0.800000, 0.700000}, flipped horizontally: true}
+		make new shape at end of graphics with properties {textPosition: {0.100000, 0.150000}, fill: no fill, draws shadow: false, size: {840.000000, 840.000000}, flipped vertically: true, name: "Circle", origin: {118.000000, 257.000000}, textSize: {0.800000, 0.700000}, flipped horizontally: true}
+		make new shape at end of graphics with properties {textPosition: {0.100000, 0.150000}, fill: no fill, draws shadow: false, size: {1050.000000, 1050.000000}, flipped vertically: true, name: "Circle", origin: {13.000000, 152.000000}, textSize: {0.800000, 0.700000}, flipped horizontally: true}
+		make new shape at end of graphics with properties {textPosition: {0.100000, 0.150000}, fill: no fill, draws shadow: false, size: {1260.000000, 1260.000000}, flipped vertically: true, name: "Circle", origin: {-92.000000, 47.000000}, textSize: {0.800000, 0.700000}, flipped horizontally: true}
+		make new shape at end of graphics with properties {textPosition: {0.100000, 0.150000}, fill: no fill, draws shadow: false, size: {1470.000000, 1470.000000}, flipped vertically: true, name: "Circle", origin: {-197.000000, -58.000000}, textSize: {0.800000, 0.700000}, flipped horizontally: true}
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{994.371762, 741.230908}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{1005.371762, 734.230908}, text:{text:"Château-d'Œx", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{918.765697, 1066.347221}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{929.765697, 1059.347221}, text:{text:"Verbier", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{1094.656123, 727.182506}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{1105.656123, 720.182506}, text:{text:"Gstaad", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{760.990117, 678.104167}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{771.990117, 671.104167}, text:{text:"Lac des Joncs", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{1131.390912, 884.804800}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{1142.390912, 877.804800}, text:{text:"Crans-Montana", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{970.449941, 984.456073}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{981.449941, 977.456073}, text:{text:"Nendaz", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{760.516441, 303.983333}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{771.516441, 296.983333}, text:{text:"Erlach", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{460.014815, 263.115899}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{471.014815, 256.115899}, text:{text:"Le Chasseron", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{827.197772, 755.914035}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{838.197772, 748.914035}, text:{text:"Col de Jaman", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{891.139992, 630.901596}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{902.139992, 623.901596}, text:{text:"Moléson", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{96.140393, 687.126843}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{107.140393, 680.126843}, text:{text:"Lac des Rousses", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{248.233421, 1009.308960}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{259.233421, 1002.308960}, text:{text:"Aire de Repos du Téléphérique du Salève", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{202.425501, 500.091204}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{213.425501, 493.091204}, text:{text:"Lac de Joux", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{737.988896, 704.503747}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{748.988896, 697.503747}, text:{text:"Mont Pèlerin", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{690.605393, 687.017406}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{701.605393, 680.017406}, text:{text:"La Tour de Gourze, Christine Martin", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{683.984093, 678.162530}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{694.984093, 671.162530}, text:{text:"Lac de Bret", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{711.181447, 1027.176342}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{722.181447, 1020.176342}, text:{text:"Champéry", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{777.486263, 958.501960}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{788.486263, 951.501960}, text:{text:"Lac de Taney", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{437.878125, 1098.529116}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{448.878125, 1091.529116}, text:{text:"Évian-les-Bains", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{821.234786, 775.053453}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{832.234786, 768.053453}, text:{text:"Rochers de Naye", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{833.691946, 726.743366}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{844.691946, 719.743366}, text:{text:"Les Pleiades", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{872.207156, 798.821669}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{883.207156, 791.821669}, text:{text:"Les Mosses", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{861.159699, 883.714924}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{872.159699, 876.714924}, text:{text:"Leysin", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{1079.008035, 1036.594356}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{1090.008035, 1029.594356}, text:{text:"Evolène", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{913.042561, 990.152816}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{924.042561, 983.152816}, text:{text:"Ovronnaz", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{335.549872, 443.015353}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{346.549872, 436.015353}, text:{text:"Fort du Pré-Giroud", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{858.465510, 605.993389}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{869.465510, 598.993389}, text:{text:"Gruyères, Switzerland", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{778.253893, 1045.157906}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{789.253893, 1038.157906}, text:{text:"Les Marécottes, 1923 Salvan, Switzerland", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{401.025799, 709.331918}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{412.025799, 702.331918}, text:{text:"Ikea Sa Aubonne", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{55.030246, 1012.822144}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{66.030246, 1005.822144}, text:{text:"Yvoire", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{294.945694, 866.456591}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{305.945694, 859.456591}, text:{text:"Genève-Aéroport", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{704.781201, 290.968224}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{715.781201, 283.968224}, text:{text:"Chaumont", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{966.458729, 803.550776}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{977.458729, 796.550776}, text:{text:"Lac de l'Hongrin", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{558.467805, 609.373178}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{569.467805, 602.373178}, text:{text:"Sauvabelin", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{765.797223, 741.542586}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{776.797223, 734.542586}, text:{text:"Les Avants", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{855.636512, 927.608372}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{866.636512, 920.608372}, text:{text:"Pont de Nant", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{729.379794, 898.319624}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{740.379794, 891.319624}, text:{text:"Lavey-les-Bains", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{882.135343, 830.160939}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{893.135343, 823.160939}, text:{text:"Les Diablerets", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{153.653502, 1074.565506}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{164.653502, 1067.565506}, text:{text:"Sciez", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{282.499382, 792.745174}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{293.499382, 785.745174}, text:{text:"Divonne-les-Bains", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{999.601560, 909.074660}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{1010.601560, 902.074660}, text:{text:"La Biolaz - aire de repos (D)", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{904.157514, 907.411667}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{915.157514, 900.411667}, text:{text:"Les Îles - aire de repos (G)", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{875.622408, 924.465018}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{886.622408, 917.465018}, text:{text:"Ardon - aires de repos", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{745.823235, 921.105807}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{756.823235, 914.105807}, text:{text:"Indivis - aires de repos", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{715.848630, 891.437155}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{726.848630, 884.437155}, text:{text:"Les Preyses - aires de repos", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{713.100217, 825.498206}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{724.100217, 818.498206}, text:{text:"Le Chablais - aires de services", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{680.451736, 732.014278}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{691.451736, 725.014278}, text:{text:"Le Pertit - aires de repos", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{667.859316, 699.766353}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{678.859316, 692.766353}, text:{text:"Lavaux - Aire de service accessible dans les 2 sens (G)", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{731.513429, 596.851242}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{742.513429, 589.851242}, text:{text:"Sâles - Aires de repos", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{771.227997, 549.931584}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{782.227997, 542.931584}, text:{text:"Restoroute de la Gruyère - aires de services", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{797.641676, 463.957748}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{808.641676, 456.957748}, text:{text:"Aire de repos (D)", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{809.812583, 468.100277}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{820.812583, 461.100277}, text:{text:"Aire de repos (G)", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{495.214803, 513.279389}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{506.214803, 506.279389}, text:{text:"Bavois - aires de services", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{394.592298, 712.456090}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{405.592298, 705.456090}, text:{text:"Aires de repos", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{382.898955, 722.624755}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{393.898955, 715.624755}, text:{text:"La Côte - Aires de services", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{574.644080, 398.542033}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{585.644080, 391.542033}, text:{text:"Relais des coteaux de Bonvillars - Aires de repos", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{1400.776743, 761.520401}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{1411.776743, 754.520401}, text:{text:"Fiesch", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{1086.811652, 903.447022}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{1097.811652, 896.447022}, text:{text:"Anzère", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{738.399704, 1060.440059}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{749.399704, 1053.440059}, text:{text:"Champoussin", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{2274.507353, 415.007285}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{2285.507353, 408.007285}, text:{text:"Davos", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{727.028519, 1010.834529}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{738.028519, 1003.834529}, text:{text:"Morgins", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{811.494884, 1107.014569}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{822.494884, 1100.014569}, text:{text:"Super Châtel, 74390 Châtel, France", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{378.406769, 1350.608914}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{389.406769, 1343.608914}, text:{text:"La Clusaz", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{104.878498, 1555.585702}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{115.878498, 1548.585702}, text:{text:"Seyssinet", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{970.719160, 984.077410}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{981.719160, 977.077410}, text:{text:"Haute-Nendaz", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{1426.488538, 568.175417}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{1437.488538, 561.175417}, text:{text:"Grindelwald", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{718.507083, 1100.851949}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{729.507083, 1093.851949}, text:{text:"Les Crosets", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{1172.097874, 1002.261690}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{1183.097874, 995.261690}, text:{text:"Grimentz", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{1195.764238, 1032.413635}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{1206.764238, 1025.413635}, text:{text:"Zinal", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{705.754970, 744.159812}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{716.754970, 737.159812}, text:{text:"Buvette de la Maladaire", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{425.096432, 680.646671}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{436.096432, 673.646671}, text:{text:"Plage de Préverenges", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{725.335151, 919.708577}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{736.335151, 912.708577}, text:{text:"Grand St.-Bernard - aire de services (accessible dans les deux sens)", size: 9, alignment: left}, draws stroke:false}
+
+		make new shape at end of graphics with properties {textPosition:{0.1, 0.15}, draws shadow:false, size:{2.000000, 2.000000}, name:"Circle", origin:{292.006136, 796.445035}, textSize:{0.8, 0.7}}
+		make new shape at end of graphics with properties {fill:no fill, draws shadow:false, size:{30.000000, 14.000000}, side padding:0, autosizing:full, vertical padding:0, origin:{303.006136, 789.445035}, text:{text:"Crans-près-Céligny - Aires de repos", size: 9, alignment: left}, draws stroke:false}
+
+	end tell
+end tell

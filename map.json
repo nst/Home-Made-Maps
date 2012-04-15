@@ -1,0 +1,440 @@
+[
+    {
+        "lat": 46.466667, 
+        "minutes": 66, 
+        "lon": 7.116667, 
+        "name": "Ch\u00e2teau-d'\u0152x"
+    }, 
+    {
+        "lat": 46.096142, 
+        "minutes": 78, 
+        "lon": 7.21909, 
+        "name": "Verbier"
+    }, 
+    {
+        "lat": 46.472488, 
+        "minutes": 80, 
+        "lon": 7.28144, 
+        "name": "Gstaad"
+    }, 
+    {
+        "lat": 46.513039, 
+        "minutes": 32, 
+        "lon": 6.947477, 
+        "name": "Lac des Joncs"
+    }, 
+    {
+        "lat": 46.307621, 
+        "minutes": 90, 
+        "lon": 7.47371, 
+        "name": "Crans-Montana"
+    }, 
+    {
+        "lat": 46.183334, 
+        "minutes": 76, 
+        "lon": 7.3, 
+        "name": "Nendaz"
+    }, 
+    {
+        "lat": 47.044559, 
+        "minutes": 62, 
+        "lon": 7.09702, 
+        "name": "Erlach"
+    }, 
+    {
+        "lat": 46.8517, 
+        "minutes": 60, 
+        "lon": 6.53808, 
+        "name": "Le Chasseron"
+    }, 
+    {
+        "lat": 46.447922, 
+        "minutes": 43, 
+        "lon": 6.983209, 
+        "name": "Col de Jaman"
+    }, 
+    {
+        "lat": 46.548801, 
+        "minutes": 51, 
+        "lon": 7.01706, 
+        "name": "Mol\u00e9son"
+    }, 
+    {
+        "lat": 46.504929, 
+        "minutes": 63, 
+        "lon": 6.091892, 
+        "name": "Lac des Rousses"
+    }, 
+    {
+        "lat": 46.161732, 
+        "minutes": 63, 
+        "lon": 6.188262, 
+        "name": "Aire de Repos du T\u00e9l\u00e9ph\u00e9rique du Sal\u00e8ve"
+    }, 
+    {
+        "lat": 46.638939, 
+        "minutes": 54, 
+        "lon": 6.286467, 
+        "name": "Lac de Joux"
+    }, 
+    {
+        "lat": 46.496876, 
+        "minutes": 29, 
+        "lon": 6.819246, 
+        "name": "Mont P\u00e8lerin"
+    }, 
+    {
+        "lat": 46.509983, 
+        "minutes": 22, 
+        "lon": 6.74108, 
+        "name": "La Tour de Gourze, Christine Martin"
+    }, 
+    {
+        "lat": 46.513988, 
+        "minutes": 21, 
+        "lon": 6.773449, 
+        "name": "Lac de Bret"
+    }, 
+    {
+        "lat": 46.178234, 
+        "minutes": 56, 
+        "lon": 6.871174, 
+        "name": "Champ\u00e9ry"
+    }, 
+    {
+        "lat": 46.338173, 
+        "minutes": 53, 
+        "lon": 6.848173, 
+        "name": "Lac de Taney"
+    }, 
+    {
+        "lat": 46.401489, 
+        "minutes": 62, 
+        "lon": 6.590949, 
+        "name": "\u00c9vian-les-Bains"
+    }, 
+    {
+        "lat": 46.431835, 
+        "minutes": 43, 
+        "lon": 6.976037, 
+        "name": "Rochers de Naye"
+    }, 
+    {
+        "lat": 46.482365, 
+        "minutes": 43, 
+        "lon": 6.908506, 
+        "name": "Les Pleiades"
+    }, 
+    {
+        "lat": 46.395191, 
+        "minutes": 51, 
+        "lon": 7.102112, 
+        "name": "Les Mosses"
+    }, 
+    {
+        "lat": 46.345375, 
+        "minutes": 55, 
+        "lon": 7.012974, 
+        "name": "Leysin"
+    }, 
+    {
+        "lat": 46.112766, 
+        "minutes": 93, 
+        "lon": 7.495914, 
+        "name": "Evol\u00e8ne"
+    }, 
+    {
+        "lat": 46.203709, 
+        "minutes": 70, 
+        "lon": 7.166872, 
+        "name": "Ovronnaz"
+    }, 
+    {
+        "lat": 46.721401, 
+        "minutes": 44, 
+        "lon": 6.36972, 
+        "name": "Fort du Pr\u00e9-Giroud"
+    }, 
+    {
+        "lat": 46.581501, 
+        "minutes": 47, 
+        "lon": 7.07627, 
+        "name": "Gruy\u00e8res, Switzerland"
+    }, 
+    {
+        "lat": 46.112499, 
+        "minutes": 63, 
+        "lon": 7.009089, 
+        "name": "Les Mar\u00e9cottes, 1923 Salvan, Switzerland"
+    }, 
+    {
+        "lat": 46.476349, 
+        "minutes": 20, 
+        "lon": 6.399002, 
+        "name": "Ikea Sa Aubonne"
+    }, 
+    {
+        "lat": 46.369362, 
+        "minutes": 84, 
+        "lon": 6.327441, 
+        "name": "Yvoire"
+    }, 
+    {
+        "lat": 46.232548, 
+        "minutes": 44, 
+        "lon": 6.111969, 
+        "name": "Gen\u00e8ve-A\u00e9roport"
+    }, 
+    {
+        "lat": 47.027309, 
+        "minutes": 60, 
+        "lon": 6.9572, 
+        "name": "Chaumont"
+    }, 
+    {
+        "lat": 46.427593, 
+        "minutes": 64, 
+        "lon": 7.055454, 
+        "name": "Lac de l'Hongrin"
+    }, 
+    {
+        "lat": 46.537136, 
+        "minutes": 10, 
+        "lon": 6.639862, 
+        "name": "Sauvabelin"
+    }, 
+    {
+        "lat": 46.4533, 
+        "minutes": 34, 
+        "lon": 6.942905, 
+        "name": "Les Avants"
+    }, 
+    {
+        "lat": 46.252018, 
+        "minutes": 58, 
+        "lon": 7.110498, 
+        "name": "Pont de Nant"
+    }, 
+    {
+        "lat": 46.20499, 
+        "minutes": 42, 
+        "lon": 7.017203, 
+        "name": "Lavey-les-Bains"
+    }, 
+    {
+        "lat": 46.351395, 
+        "minutes": 54, 
+        "lon": 7.158179, 
+        "name": "Les Diablerets"
+    }, 
+    {
+        "lat": 46.33202, 
+        "minutes": 79, 
+        "lon": 6.374511, 
+        "name": "Sciez"
+    }, 
+    {
+        "lat": 46.35817, 
+        "minutes": 40, 
+        "lon": 6.13604, 
+        "name": "Divonne-les-Bains"
+    }, 
+    {
+        "lat": 46.242901, 
+        "minutes": 74, 
+        "lon": 7.404624, 
+        "name": "La Biolaz - aire de repos (D)"
+    }, 
+    {
+        "lat": 46.213737, 
+        "minutes": 62, 
+        "lon": 7.316991, 
+        "name": "Les \u00celes - aire de repos (G)"
+    }, 
+    {
+        "lat": 46.196735, 
+        "minutes": 60, 
+        "lon": 7.254077, 
+        "name": "Ardon - aires de repos"
+    }, 
+    {
+        "lat": 46.121929, 
+        "minutes": 46, 
+        "lon": 7.112296, 
+        "name": "Indivis - aires de repos"
+    }, 
+    {
+        "lat": 46.184391, 
+        "minutes": 40, 
+        "lon": 7.025982, 
+        "name": "Les Preyses - aires de repos"
+    }, 
+    {
+        "lat": 46.338455, 
+        "minutes": 33, 
+        "lon": 6.931193, 
+        "name": "Le Chablais - aires de services"
+    }, 
+    {
+        "lat": 46.438068, 
+        "minutes": 22, 
+        "lon": 6.916289, 
+        "name": "Le Pertit - aires de repos"
+    }, 
+    {
+        "lat": 46.505489, 
+        "minutes": 19, 
+        "lon": 6.709868, 
+        "name": "Lavaux - Aire de service accessible dans les 2 sens (G)"
+    }, 
+    {
+        "lat": 46.606392, 
+        "minutes": 30, 
+        "lon": 6.956427, 
+        "name": "S\u00e2les - Aires de repos"
+    }, 
+    {
+        "lat": 46.683498, 
+        "minutes": 38, 
+        "lon": 7.087101, 
+        "name": "Restoroute de la Gruy\u00e8re - aires de services"
+    }, 
+    {
+        "lat": 46.772903, 
+        "minutes": 48, 
+        "lon": 7.093329, 
+        "name": "Aire de repos (D)"
+    }, 
+    {
+        "lat": 46.755371, 
+        "minutes": 49, 
+        "lon": 7.090886, 
+        "name": "Aire de repos (G)"
+    }, 
+    {
+        "lat": 46.674892, 
+        "minutes": 24, 
+        "lon": 6.570096, 
+        "name": "Bavois - aires de services"
+    }, 
+    {
+        "lat": 46.480797, 
+        "minutes": 21, 
+        "lon": 6.433643, 
+        "name": "Aires de repos"
+    }, 
+    {
+        "lat": 46.445904, 
+        "minutes": 23, 
+        "lon": 6.298052, 
+        "name": "La C\u00f4te - Aires de services"
+    }, 
+    {
+        "lat": 46.85033, 
+        "minutes": 40, 
+        "lon": 6.696164, 
+        "name": "Relais des coteaux de Bonvillars - Aires de repos"
+    }, 
+    {
+        "lat": 46.403076, 
+        "minutes": 124, 
+        "lon": 8.132627, 
+        "name": "Fiesch"
+    }, 
+    {
+        "lat": 46.294113, 
+        "minutes": 85, 
+        "lon": 7.39543, 
+        "name": "Anz\u00e8re"
+    }, 
+    {
+        "lat": 46.207794, 
+        "minutes": 62, 
+        "lon": 6.862521, 
+        "name": "Champoussin"
+    }, 
+    {
+        "lat": 46.800121, 
+        "minutes": 251, 
+        "lon": 9.83089, 
+        "name": "Davos"
+    }, 
+    {
+        "lat": 46.236984, 
+        "minutes": 55, 
+        "lon": 6.858108, 
+        "name": "Morgins"
+    }, 
+    {
+        "lat": 46.267742, 
+        "minutes": 73, 
+        "lon": 6.857813, 
+        "name": "Super Ch\u00e2tel, 74390 Ch\u00e2tel, France"
+    }, 
+    {
+        "lat": 45.904427, 
+        "minutes": 99, 
+        "lon": 6.423353, 
+        "name": "La Clusaz"
+    }, 
+    {
+        "lat": 45.176445, 
+        "minutes": 140, 
+        "lon": 5.69924, 
+        "name": "Seyssinet"
+    }, 
+    {
+        "lat": 46.184078, 
+        "minutes": 76, 
+        "lon": 7.29974, 
+        "name": "Haute-Nendaz"
+    }, 
+    {
+        "lat": 46.623901, 
+        "minutes": 128, 
+        "lon": 8.03465, 
+        "name": "Grindelwald"
+    }, 
+    {
+        "lat": 46.184006, 
+        "minutes": 66, 
+        "lon": 6.834204, 
+        "name": "Les Crosets"
+    }, 
+    {
+        "lat": 46.175758, 
+        "minutes": 102, 
+        "lon": 7.573957, 
+        "name": "Grimentz"
+    }, 
+    {
+        "lat": 46.138317, 
+        "minutes": 107, 
+        "lon": 7.624404, 
+        "name": "Zinal"
+    }, 
+    {
+        "lat": 46.446983, 
+        "minutes": 26, 
+        "lon": 6.87512, 
+        "name": "Buvette de la Maladaire"
+    }, 
+    {
+        "lat": 46.5126, 
+        "minutes": 16, 
+        "lon": 6.528664, 
+        "name": "Plage de Pr\u00e9verenges"
+    }, 
+    {
+        "lat": 46.128159, 
+        "minutes": 44, 
+        "lon": 7.060779, 
+        "name": "Grand St.-Bernard - aire de services (accessible dans les deux sens)"
+    }, 
+    {
+        "lat": 46.366859, 
+        "minutes": 39, 
+        "lon": 6.193929, 
+        "name": "Crans-pr\u00e8s-C\u00e9ligny - Aires de repos"
+    }
+]
