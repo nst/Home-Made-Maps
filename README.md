@@ -6,8 +6,7 @@ The process to generate such a map can be broken down this way:
 
 1. enter the places you're interested in a Google Map
 2. export the Google map as a KML file
-3. use retrieve the durations needed to reach each point
-4. 4.  and store them in a JSON file
+3. use retrieve the durations needed to reach each point, store them in a JSON file
 4. compute (x,y) position for each point
 5. generate Apple Script code to draw the points in OmniGraffle
 
